@@ -1,12 +1,12 @@
 {
-  "name": "ms-nodejs-satu-data-vaksin",
+  "name": "nodejs-express-template-crud",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dimas Bayu Suseno",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
